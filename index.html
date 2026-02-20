@@ -44,6 +44,7 @@
                     body: JSON.stringify({ orden: orden })
                 });
 
+
                 const data = await response.json();
 
                 if (data.status === 'success') {
