@@ -1,8 +1,5 @@
 # NEXUS - Automatización Inteligente de Tareas
 
-## 🔒 Configuración Segura
-
-Tu código ha sido protegido para que los tokens secretos NO se suban a GitHub.
 
 ### ¿Cómo funciona?
 
